@@ -1,4 +1,4 @@
 # TIIC
 
 # HOME PAGE : 
-./images/HomePage.png
+images/HomePage.png

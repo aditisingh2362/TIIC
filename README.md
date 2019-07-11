@@ -4,3 +4,8 @@
 
 https://github.com/aditisingh2362/TIIC/blob/master/images/HomePage.png
 (The whole view might not be visible, please download the image to see the whole screenshot)
+
+# ABOUT US : 
+https://github.com/aditisingh2362/TIIC/blob/master/images/AboutUs.png
+(The whole view might not be visible, please download the image to see the whole screenshot)
+
